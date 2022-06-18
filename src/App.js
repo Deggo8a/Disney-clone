@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn to shut the fuck up and welcome to the warriors invitational
         </a>
       </header>
     </div>
